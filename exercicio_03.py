@@ -8,5 +8,5 @@ inicio = 10
 while inicio > 0:
     print(inicio)
     inicio -= 1
-print('FIM')
+print('FIM' )
 
